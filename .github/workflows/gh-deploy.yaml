@@ -3,6 +3,7 @@
 # https://github.com/jlumbroso/hugo-geekdoc-github-example/blob/47d86ed41e1678c13b17c44a71140563c8882f3c/.github/workflows/gh-pages.yaml
 
 name: Deploy YNAB Application to GitHub Pages
+permissions: read-all|write-all
 
 # Controls when the action will run.
 on:
